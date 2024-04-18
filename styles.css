@@ -1,0 +1,71 @@
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+.yellow {
+    color: yellow;
+}
+.green {
+    color: green;
+}
+
+.title-style {
+   
+    font-size: 45px;
+    text-align: center;
+    font-weight: 700;
+
+}
+
+#recipe-title {
+    background-color: red;
+}
+.menu {
+    font-family: Georgia;
+    color: rgb(60, 179, 113);
+    font-size: 30px;
+    
+}
+
+.headings {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: "Comic Sans Serif", "Times New Roman";
+    text-align: center;
+    background-color: rgba(0, 255, 0, 0.4)
+}
+
+.dish-image {
+    height: auto;
+    width: 500px;
+   
+    
+    
+}
+
+.description-heading{
+    font-family:Verdana, Arial;
+    font-size: 30px;
+}
+
+.descriptions {
+    font-size: 26px;
+    font-weight: 500;
+    background-color: rgba(250, 244,211,1)
+}
+
+.odd-steps {
+    background-color: rgb(240, 255, 240);
+}
+.even-steps { 
+    background-color: rgba( 60, 179, 113,0.4 );
+
+}
+
+
+
+
+
