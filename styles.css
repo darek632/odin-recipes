@@ -1,3 +1,12 @@
+h1 {
+    border: 1px;
+    border-style: groove;
+    border-color: ##ffa700;
+    width:400px;
+    margin: 0 auto;
+    padding: 16px;
+    background-color: #ffa700;
+}
 .blue {
     color: blue;
 }
@@ -18,6 +27,7 @@
     text-align: center;
     font-weight: 700;
 
+
 }
 
 #recipe-title {
@@ -27,8 +37,39 @@
     font-family: Georgia;
     color: rgb(60, 179, 113);
     font-size: 30px;
+    list-style-position: inside;
+
+}
+
+ul {
+    padding: 8px;
+   
+
+
+}
+
+.mainlist {
+    border: 1px;
+    border-style: outset;
+    border-color: #00874450;
+    display:block;
+    margin-bottom:16px;
+    margin-top: 16px;
+    width: 360px;
+    text-align: center;
+    height: 36px;
+    padding: 16px;
+    background: #008744;
+    display: block;
+margin: auto;
     
 }
+
+.odd-list { text-align: right;
+}
+    
+}
+
 
 .headings {
     font-size: 40px;
