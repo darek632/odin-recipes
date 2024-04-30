@@ -1,11 +1,12 @@
 h1 {
-    border: 1px;
-    border-style: groove;
-    border-color: ##ffa700;
+    border: 3px;
+    border-style: ridge;
+    border-color: #ff981a;
     width:400px;
-    margin: 0 auto;
+    margin: 15px auto;
     padding: 16px;
-    background-color: #ffa700;
+    background-color: #e67f00;
+    text-align: center;
 }
 .blue {
     color: blue;
@@ -33,6 +34,7 @@ h1 {
 #recipe-title {
     background-color: red;
 }
+
 .menu {
     font-family: Georgia;
     color: rgb(60, 179, 113);
@@ -43,11 +45,39 @@ h1 {
 
 ul {
     padding: 8px;
-   
-
 
 }
 
+li {
+    padding: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
+.miso {
+    color: #ff8d00; 
+    background-color: #ff8d00;
+
+}
+.spring {
+    color: #ff981a;
+    background-color: #ff981a;
+
+}
+
+
+.tahini {
+    color: #ffa334;
+    background-color: #ffa334;
+}
+
+.white-text {
+    color: #EEEEEE;
+}
+
+
+/*
 .mainlist {
     border: 1px;
     border-style: outset;
@@ -64,11 +94,16 @@ ul {
 margin: auto;
     
 }
+*/
 
-.odd-list { text-align: right;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
-    
-}
+
+
 
 
 .headings {
